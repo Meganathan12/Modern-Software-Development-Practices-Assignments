@@ -25,13 +25,13 @@
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
->
+>https://github.com/ArshiyaNasirin/Onecredit-Fullstack
 > - Kindly submit the GitHub Repo URL
 
 >
 > - Kindly submit the Live Application URL (Domain)
 
->
+>https://arshiyanasirin.github.io/Onecredit-Fullstack/
 > - Kindly submit the GitHub Pages (Documentation) URL
 
 # 4 Linkedin Post
